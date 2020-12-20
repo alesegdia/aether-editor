@@ -1,3 +1,9 @@
 [submodule "module/wxWidgets"]
 	path = module/wxWidgets
 	url = git@github.com:wxWidgets/wxWidgets.git
+[submodule "module/aether"]
+	path = module/aether
+	url = git@github.com:alesegdia/aether.git
+[submodule "module/imgui"]
+	path = module/imgui
+	url = git@github.com:ocornut/imgui.git
