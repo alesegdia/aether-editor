@@ -19,6 +19,7 @@ solution "aether-editor"
 		files {
 			"../src/**.h",
 			"../src/**.cpp",
+						path.join(AETHER_DIR, "src/main/main.cpp")
 		}
 		includedirs {
 			"../src/",			
